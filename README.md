@@ -10,6 +10,7 @@ Below is a list of the mods I maintain. Click on the links to see more details a
 - [UltimateHUD](https://modrinth.com/mod/ultimatehud) - A mod to customize your Minecraft HUD with various useful elements.
 - [Simple HUD](https://modrinth.com/mod/simple-hud) - A lightweight mod to enhance the HUD with basic but useful features.
 - [Counter Mod](https://modrinth.com/mod/counter-mod) - A mod that adds various counters to your HUD for tracking different statistics.
+- [Armor Of Vitality](https://modrinth.com/mod/armor-of-vitality) - A mod that adds various counters to your HUD for tracking different statistics.
 
 ## How to Report an Issue
 
